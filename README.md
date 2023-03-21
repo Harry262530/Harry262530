@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Gokul Pant</h1>
 <h3 align="center">Frontend developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
 
 - 🔭 I’m currently working on **an E-commerce website**
 
@@ -21,7 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harry262530&show_icons=true&locale=en&layout=compact" alt="harry262530" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harry262530&show_icons=true&locale=en" alt="harry262530" /></p>
-<!---
-Harry262530/Harry262530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
